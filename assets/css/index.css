@@ -1,0 +1,431 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navBar {
+    border-left: 12%;
+    position: absolute;
+    text-align: center;
+    margin-left: 20%;
+    padding-top: 3%;
+}
+
+.navBar a{
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.heroText {
+    margin-left: 20%;
+    padding-top: 21%;
+}
+.textSpanHero {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 26%;
+    color: #fff;
+    font-size: 70px;
+
+}
+
+.textH1Hero {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 13%;
+    color: #fff;
+    font-size: 70px;
+    font-weight: 1000;
+}
+
+.textHero{
+    margin-left: 30%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fff;
+}
+
+.topSide{
+    color: #fff;
+    margin-left: 40%;
+    display: flex;
+    gap: 10px;
+    font-size: 35px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.topSide p{
+    font-weight: 1000;
+}
+
+.topSide span{
+    font-weight: 100;
+}
+.cardBox1{
+    display: flex;
+    gap: 25px;
+}
+
+.cardBox2 {
+    display: flex;
+    padding-top: 35%;
+    margin-right: 100%;
+    
+}
+
+
+
+
+
+
+
+.cardText{
+    color: #fff;
+    margin-left: 24%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+
+.hero {
+    background-image: url(../image/image_1.jpg\ \(1\).webp);
+    background-position: center center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.navList {
+    display: flex;
+    gap: 50px;
+    margin-left: 35%;
+}
+
+.portfolio {
+    background-color: #222;
+    height: 100vh;
+}
+.nav a {
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    display: flex;
+    color: #fff;
+}
+
+.nav a:hover  {
+    color: #bac964;
+}
+
+.cardBoxText{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 20%;
+    padding-top: 10%;
+}
+
+.resume {
+    background-color: #222;
+    height: 100vh;
+}
+
+.resHead {
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    margin-left: 39%;
+    font-size: 30px;
+}
+
+.resSpan {
+    font-weight: 100;
+}
+
+.texRes {
+    font-weight: 1000;
+}
+
+.section {
+    border: 3px solid transparent;
+    background-color: #333;
+    border-radius: 7px;
+
+}
+.resRov {
+    display: flex;
+
+
+}
+
+.cardBoxRes1{
+
+}
+
+.date{
+    font-weight: 500;
+    color: #fff;
+    font-size: 10px;
+}
+
+.fa-regular{
+    color: #fff;
+}
+.section h2{
+    color: #bac964 !important; 
+}
+.experience {
+    color: #fff;
+}
+
+.education {
+    color: #fff;
+}
+
+.about {
+    background-color: #222;
+}
+
+.imgAbout{
+    width: 70%;
+    max-width: 100%;
+    margin-left: 40px;
+}
+
+.rowAbout{
+    display: flex;
+}
+
+.aboutSpan{
+    font-size: 40px;
+    display: flex;
+    gap: 20px;
+    color: #fff;
+}
+
+.hireMe{
+    width: 16%;
+    height: 40px;
+    border-radius: 19px;
+    background-color: #bac964;
+    color: #fff;
+}
+
+.download{
+    width: 20%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #6c757d;
+    color: #fff;
+}
+
+.aboutRight{
+    padding-top: 5%;
+}
+.aboutText p {
+    color: #333;
+    width: 80%;
+    font-size: 1.25rem;
+}
+
+.middleHead{
+    display: flex;
+    gap: 10px;
+    margin-left: 43%;
+    color: #fff;
+    font-size: 30px;
+    padding-top: 18%;
+}
+
+.client{
+    font-weight: 100;
+}
+
+.testimonial {
+    font-weight: 1000;
+}
+
+.middleImg{
+    width: 60px;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+
+.middleBox{
+    width: 80%;
+    height: 30%;
+    display: flex;
+    margin-left: 10%;
+    padding-top: 8%;
+
+}
+
+.textMiddle{
+    background-color: #333;
+    border-radius: 10px;
+    color: #ffffff66;
+    padding: 40px;
+}
+
+.ethan{
+    display: flex;
+    gap: 10px;
+}
+
+.textMiddle span{
+    color: #6c757d
+}
+
+.aboutServ { 
+    display: flex;
+    color: #fff;
+    gap: 12px;
+    font-size: 40px ;
+    margin-left: 45%;
+    padding-top: 6%;
+}
+.servSpan{
+    font-weight: 100;
+}
+.servHead{
+    font-weight: 800;
+}
+.servCard{
+    display: flex;
+    margin-left: 10%;
+
+}
+
+.servBox1 {
+    background-color: #333;
+    width: 70%;
+    height: 90%;
+    color: #fff;
+    padding: 14%;
+}
+
+.servBox2 {
+    background-color: #333;
+    width: 70%;
+    height: 90%;
+    color: #fff;
+    padding: 1%;
+}
+
+.servBox3 {
+    background-color: #333;
+    width: 70%;
+    height: 90%;
+    color: #fff;
+    padding: 10%;
+}
+
+
+.servp{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    padding-top: 12%;
+    color: #ffffff66;
+}
+.servh{
+    font-weight: 100;
+    margin-left: 30%;
+}
+
+.servIcon{
+    font-size: 45px;
+    width: 70px;
+    height: 70px;
+    font-weight: 100;
+    background-color: #bac964;
+    padding: 10px;
+    margin-left: 35%;
+    color: #333;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.learn{
+    color: #bac964;
+    padding-top: 10%;
+    margin-left: 20%;
+    font-size: 25px;
+}
+.learn :hover{
+}
+.mediumHead{
+    display: flex;
+    gap: 12px;
+    color: #fff;
+    font-size: 35px;
+    margin-left: 42%;
+}
+
+.imgBlog{
+    width: 50%;
+    
+}
+.blogBox{
+    display: flex;
+}
+
+.blogCard{
+    width: 50%;
+    height: 50%;
+    background-color: #333;
+}
+.aboutGet{
+    color: #fff;
+    display: flex;
+    gap: 10px;
+    font-size: 35px;
+    margin-left: 42%;
+    padding-top: 12%;
+}
+.get{
+    font-weight: 100;
+}
+.in{
+    font-weight: 900;
+}
+
+.getCard{
+    display: flex;
+    gap: 40%;
+    margin-left: 20%;
+}
+.getp{
+    font-size: 35px;
+    color: #fff;
+    font-weight: 100;
+}
+.name{
+    padding-top: 12%;
+}
+
+.footer{
+    background-color: #222;
+    padding-top: 12%;
+}
+.icon{
+    background-color: #333;
+    color: #bac964;
+    border-radius: 100%;
+    font-size: 30px; 
+    border: solid 6px #333;
+    margin-bottom: 52%;
+
+}
+.footerTel{
+    display: flex;
+    gap: 35px;
+    margin-left: 45%;
+
+}
+
+.footerText{
+    margin-left: 35%;
+    color: #6c757d;
+}
